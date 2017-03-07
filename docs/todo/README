@@ -1,0 +1,10 @@
+task status:
+0 new
+1 in progress
+2 resolved
+3 closed
+
+priority:
+0 low
+1 normal
+2 high
